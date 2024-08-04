@@ -147,7 +147,7 @@ class Tab1(Q.QWidget):
 
 
 
-
+# hahaha
 
 
 class tab2(Q.QWidget):
